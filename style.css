@@ -2095,7 +2095,7 @@ body.nav-active .nav__block .nav__block-item {
 
 @media only screen and (max-width: 753px) {
   .main-slider .banner-content h2.banner-title {
-    font-size: 3em;
+    font-size: 2em;
   }
 
   #intro .button-container {
